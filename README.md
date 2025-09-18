@@ -2,6 +2,14 @@
 
 - 🌱 Eu estou estudando sobre: Front-End/Back-End pretendo virar Full-Stack
 
+  <p align="left">
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Seguidores Github" src="https://custom-icon-badges.demolab.com/github/followers/Maykski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Maykski?tab=repositories&sort=stargazers">
+         <img alt="stars" title="Total estrela no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Maykski?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+#
+### TECNOLOGIAS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maykski-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +20,28 @@
   <img align="center" alt="Maykski-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maykski-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+
+#
+
+### Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Maykski&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
   ##
  
 <div> 
