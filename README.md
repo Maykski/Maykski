@@ -1,12 +1,14 @@
-### Olá eu sou Maykom Mykael Wochniscki 👋
+# Olá eu sou Maykom Mykael Wochniscki 👋
   <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Seguidores Github" src="https://custom-icon-badges.demolab.com/github/followers/Maykski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Maykski?tab=repositories&sort=stargazers">
          <img alt="stars" title="Total estrela no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Maykski?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
 
-### Tecnologias
+
+# Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maykski-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,10 +17,11 @@
   <img align="center" alt="Maykski-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maykski-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maykski-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Maykski-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-## Contato
+
+
+# Contato
 
 <div> 
   <a href="https://www.instagram.com/maykom_mykael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,9 +31,8 @@
   
 </div>
 
-#
 
-### Estatísticas
+# Estatísticas
 <p>
   <img 
     align="left" 
@@ -44,7 +46,8 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
