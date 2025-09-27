@@ -1,4 +1,4 @@
-# Olá eu sou Maykom Mykael Wochniscki 👋
+# Olá eu sou Maykom Mykael Wochniscki
   <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Seguidores Github" src="https://custom-icon-badges.demolab.com/github/followers/Maykski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
