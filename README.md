@@ -1,7 +1,5 @@
 # Olá eu sou Maykom Mykael Wochniscki
   <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Seguidores Github" src="https://custom-icon-badges.demolab.com/github/followers/Maykski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Maykski?tab=repositories&sort=stargazers">
          <img alt="stars" title="Total estrela no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Maykski?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
