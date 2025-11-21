@@ -1,9 +1,16 @@
+<div style="
+  background-image: url('https://i.pinimg.com/736x/66/fd/b6/66fdb6ca7dbf683dd3161325a9883510.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 40px;
+  border-radius: 10px;
+">
 <br>
 <br>
 <br>
-
+</div>
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/X4mT14p.png" />
+  <img align="center" height="150" src="https://i.pinimg.com/1200x/91/05/d2/9105d263693481022eea4b8cecacd404.jpg" />
 </div>
 
 <div align="center">
@@ -108,6 +115,10 @@
 <br>
 <br>
 <br>
+
+  
+</div>
+
 
 
 
