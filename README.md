@@ -6,7 +6,12 @@
   border-radius: 10px;
 ">
 <br>
-<br>
+  <br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Maykski-1E90FF?style=for-the-badge&logoColor=white" />
+</div>
+      
 <br>
 </div>
 <div align="center">
@@ -25,13 +30,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&width=900&size=22&center=true&lines=I'm+Fullstack;I'm+a+student+of+Websites+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Maykski-1E90FF?style=for-the-badge&logoColor=white" />
-</div>
-      
-<br>
 <br>
       
 <div align="center">
