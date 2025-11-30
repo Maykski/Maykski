@@ -32,14 +32,6 @@
 
 
 <br>
-      
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Maykski&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&title_color=1E90FF&text_color=ffffff&icon_color=1E90FF"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykski&layout=compact&langs_count=16&theme=ayu-mirage&title_color=1E90FF&text_color=ffffff"/>
-  <br>
-  <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maykski&theme=github_dark&title_color=1E90FF&text_color=ffffff"/>
-</div>
 
 <div align="center" style="display: inline_block"><br>
 
